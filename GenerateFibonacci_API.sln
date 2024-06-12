@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateFibonacci_API", "GenerateFibonacci_API.csproj", "{76E0E1D5-DE9A-40DE-8D11-D9188ADE0D27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GnerateFibonacci_Core", "..\GnerateFibonacci_Core\GnerateFibonacci_Core.csproj", "{D8A83CAB-5E54-46E2-82E8-53DC6AE43080}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateFibonacci_Infrastructure", "..\GenerateFibonacci_Infrastructure\GenerateFibonacci_Infrastructure.csproj", "{A2F59B06-CED9-4830-BCC4-D719954A626E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76E0E1D5-DE9A-40DE-8D11-D9188ADE0D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76E0E1D5-DE9A-40DE-8D11-D9188ADE0D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76E0E1D5-DE9A-40DE-8D11-D9188ADE0D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76E0E1D5-DE9A-40DE-8D11-D9188ADE0D27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8A83CAB-5E54-46E2-82E8-53DC6AE43080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8A83CAB-5E54-46E2-82E8-53DC6AE43080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8A83CAB-5E54-46E2-82E8-53DC6AE43080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8A83CAB-5E54-46E2-82E8-53DC6AE43080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2F59B06-CED9-4830-BCC4-D719954A626E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2F59B06-CED9-4830-BCC4-D719954A626E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2F59B06-CED9-4830-BCC4-D719954A626E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2F59B06-CED9-4830-BCC4-D719954A626E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F56ECDD-E49B-4F9C-BA33-08D815E4AB9E}
+	EndGlobalSection
+EndGlobal
